@@ -44,7 +44,9 @@ To perform a database dump:
 
 To restore a database:
     ```bash
-./aws-db-manager.sh restore myuser mypassword production
+./aws-db-manager.sh restore myuser mypassword productionwork
+
+![EnvSyncerUseCase](https://github.com/peco3k/EnvSyncer/assets/94234460/c697e620-b9b6-4d94-bd10-a7c6af40b105)
 
 ## Troubleshooting
 
